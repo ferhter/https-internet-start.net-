@@ -1,0 +1,1 @@
+START https://www.bing.com/maps?q=GPS&FORM=HDRSC4&cp=21.106281%7E-101.582336&lvl=11.0
