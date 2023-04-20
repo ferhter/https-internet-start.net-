@@ -1,10 +1,7 @@
-start https://www.internet-start.net
+QUESTION SECTION:
+seed.bitcoin.sipa.be.      IN  A
 
-<img src="/useravatars/avatar_8389.gif" alt="" class="avatar" border="1">
-;; QUESTION SECTION:
-;seed.bitcoin.sipa.be.      IN  A
-
-;; ANSWER SECTION:
+ ANSWER SECTION:
 seed.bitcoin.sipa.be.   60  IN  A  192.0.2.113
 seed.bitcoin.sipa.be.   60  IN  A  198.51.100.231
 seed.bitcoin.sipa.be.   60  IN  A  203.0.113.183
@@ -170,7 +167,8 @@ cf050500 ........................... Start height: 329167
 01 ................................. Relay flag: true
 
 
-
+<img src="/useravatars/avatar_8389.gif" alt="" class="avatar" border="1">
+start https://www.internet-start.net
 
 
 
